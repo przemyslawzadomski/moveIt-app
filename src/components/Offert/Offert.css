@@ -1,0 +1,245 @@
+body {
+    margin: 0;
+}
+
+li, ul {
+    list-style: none;
+}
+
+.offert_header {
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: #f8c512;
+    padding: 110px 30px 30px 30px;
+    font-weight: bold;
+    box-shadow: 0px 1px 5px rgb(105, 105, 105);
+}
+
+.offert-title {
+    color:black;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-align: center;
+   padding-top:22px;
+   padding-bottom: 22px;
+}
+
+.Offert_offert-button-first{
+    background-color: rgb(59, 57, 57);
+    border-radius: 15px;
+    border-style: none;
+    padding: 9px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top:15px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+
+.Offert_offert-button{
+    background-color: rgb(59, 57, 57);
+    border-radius: 15px;
+    border-style: none;
+    padding: 9px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top:15px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
+.Offert_offert-information{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.Offert_offert-information-all{
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+}
+
+.Offert_furnitures-title{
+    text-transform: uppercase;
+    font-weight: bolder;
+
+    
+}
+
+.Offert_bottom-line{
+    margin-top:35px;
+    height: 2px;
+    background-color: rgb(224, 224, 224);
+    display: block;
+    border-radius: 90%;
+   
+}
+
+.offert-furnitures{
+    margin-top:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #f8c512;
+    background-image: url("./background.png")
+}
+
+.Offert_furnitures-type{
+    padding-bottom: 15px;
+    font-weight: bold;
+    padding-top: 25px;
+    text-transform: uppercase;
+}
+
+.Offert_furnitures-information{
+    padding-right: 20px;
+    padding-bottom: 10px;
+   
+}
+
+
+.Offert_furnitures-details{
+    line-height:25px;
+    font-weight: bold;
+
+  }
+
+  
+.Ofert_first-section{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: 95% bottom;
+    background-size: 40%;
+   
+}
+
+.Offert_furniture-title-main{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 22px;
+}
+
+.Offert_last-section{
+    padding-bottom: 20px;
+}
+
+.Offert_title-section-secound{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: #ededed;
+}
+
+.Offert_title-section-first{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: #ededed;
+}
+
+.Offert_main-section{
+    background-image:url("./iconmonstr-delivery.png");
+    background-position: 85% 60%;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+
+
+.Offert_form{
+    position: fixed;
+    left: 0;
+    right: 0;
+    max-width: 480px;
+    top: 80px;
+    transition: all 0.8s ease-in-out;
+    transform: translateX(100vw);
+    background: url(./background.png) right center, linear-gradient(#f8c512, #edb60d);
+    z-index: 999;
+    padding: 20px;
+    box-shadow: 0px 1px 5px rgb(105, 105, 105);
+}
+
+.Offert_form input {
+    padding: 10px;
+    width: 90%;
+    border-radius: 20px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.Offert_form textarea {
+    padding: 10px;
+    width: 90%;
+    border-radius: 20px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+
+.offert-box-buttons {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.offert-back {
+    color: #323232;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.expanded-offert {
+    transform: translateX(0);
+    margin: 0 auto;
+}
+
+.Offert_form-title{
+    font-size: 25px;
+    font-weight: 500;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Offert_form-button{
+    background-color: #323232;
+    border-radius: 15px;
+    border-style: none;
+    padding: 9px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top:15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.Offert_span{
+padding-bottom: 20px;
+}

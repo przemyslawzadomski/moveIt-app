@@ -1,0 +1,142 @@
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+.MyAccount_All {
+    font-family: 'Catamaran', sans-serif;
+    scroll-behavior: smooth;
+    width: 100%;
+  }
+
+ .MyAccount_carrier-information{
+    background-color: #f8c512;
+      padding-bottom: 25px;
+      padding-top: 100px;
+      padding-bottom: 50px;
+    }
+
+    .MyAccount_marks {
+        background-color:  #EAEDEA;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .MyAccount_title {
+        color: white;
+        font-size: 20px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        padding-left: 20px;
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+
+     .MyAccount_user-photo {
+        width: 120px;
+        margin-left: 20px;
+        background: white;
+        float: left;
+        
+    }
+
+   .MyAccount_company-name{
+       text-transform: uppercase;
+       font-size: 20px;
+       font-weight: bold;
+       padding-left: 150px;
+       padding-bottom: 5px;
+       
+   }
+
+   .MyAccount_information-title{
+       color: white;
+       text-transform: uppercase;
+       font-size:17px;
+       font-weight: bold;
+   }
+
+   .MyAccount_information{
+       color: black;
+       text-transform: uppercase;
+       font-size:15px;
+       font-weight: bold;
+       padding-left: 150px;
+       padding-top:5px;
+   }
+
+   .MyAccount_starts-average{
+       padding-left: 20px;
+       text-transform: uppercase;
+       font-weight: bold;
+       font-size: 20px;
+   }
+
+
+  .MyAccount_opinions-title{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    
+  }
+
+
+  .MyAccount_user-name{
+      color:  #f8c512;
+      padding-top:3%;
+      padding-bottom: 2%;
+      font-weight: bold;
+      text-transform: uppercase;
+      font-size: 17px;
+  }
+
+.MyAccount_opinions{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+}
+
+.MyAccount_line{
+    
+        background-color: #EBEBEB;
+        height: 1px;
+        color: #EBEBEB;
+        border: 0px;
+        padding-left: 20px;
+    padding-right: 20px;
+}
+
+.MyAccount_users-opinion{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.MyAccount_mark-stars{
+    padding-left: 10px;
+}
+
+.MyAccount_edit-button {
+    border-radius:20px;
+    border: none;
+    background-color: #323232;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    width:100px;
+    text-transform: uppercase;
+    height: 25px;
+    margin-left: 65px;
+    
+}
+
+.MyAccount_user-down{
+    background-color: white;
+    height: 300px;
+    background: url('./iconmonstr-delivery.png') no-repeat;
+    background-position: 10px bottom;
+    background-position: center;
+
+}

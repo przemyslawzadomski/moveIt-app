@@ -1,0 +1,26 @@
+.sign-out_main{
+    background: url(./background.png) right center, linear-gradient(#f8c512, #edb60d) ;
+    padding-top: 100px;
+    text-align: center;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.sign-out_main h1{
+    font-size: 34px;
+    font-weight: 900;
+}
+.sign-out_main span{
+    font-size: 20px;
+    font-weight: 700;
+}
+.sign-out_main p{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.sign-out_main a{
+    color: white;
+    text-decoration: none;
+}

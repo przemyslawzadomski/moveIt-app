@@ -1,0 +1,32 @@
+.footer-global-settings{
+    font-family: 'Catamaran', sans-serif;
+    padding: 0 20px;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(./footer.png);
+    align-items: flex-end;
+    background-size: cover;
+    color: white; 
+}
+.footer-box{
+    display: flex;
+    flex-direction: column;
+}
+.footer-moveIt{
+    padding:10px 0px 5px 0px;
+    font-weight: 900;
+}
+.footer-send-email{
+    text-decoration: none;
+    color: white;
+}
+.footer-logo{
+    width: 150px;
+    height: auto;
+    margin-left: 10px;
+    margin-bottom: -5px;
+}
+.footer-copyright{
+    padding: 15px 0 10px 0;
+}

@@ -1,0 +1,298 @@
+{
+  "-LZe7JQmzHNxL9MHwjd1": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": false,
+    "floorNumber": 3,
+    "clientId": "-LZe75o1kOT6B4Dzh3CR"
+  },
+  "-LZe7JQnym_0c0m6lTs0": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": false,
+    "bringFurnitures": true,
+    "floorNumber": 0,
+    "clientId": "-LZe75o1kOT6B4Dzh3CR"
+  },
+  "-LZe7JQoQVlbsSH0SDVK": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": false,
+    "floorNumber": 10,
+    "clientId": "-LZe75nzw1q2Mgp5ZQ8G"
+  },
+  "-LZe7JQpJf8skG2jN3du": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      },
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": false,
+    "bringFurnitures": true,
+    "floorNumber": 3,
+    "clientId": "-LZe75o1kOT6B4Dzh3CR"
+  },
+  "-LZe7JQq7qfUdEOOBPoK": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": false,
+    "floorNumber": 1,
+    "clientId": "-LZe75nzw1q2Mgp5ZQ8G"
+  },
+  "-LZe7JQrHGWJdnyyi42L": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": false,
+    "bringFurnitures": true,
+    "floorNumber": 3,
+    "clientId": "-LZe75o2NA9WYjWGCbjH"
+  },
+  "-LZe7JQsrkBCc-OR1pL3": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": false,
+    "bringFurnitures": true,
+    "floorNumber": 3,
+    "clientId": "-LZe75o2NA9WYjWGCbjH"
+  },
+  "-LZe7JQsrkBCc-OR1pL4": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": true,
+    "floorNumber": 3,
+    "clientId": "-LZe75o-43xFoRBae00o"
+  },
+  "-LZe7JQtz3pnsRJXm416": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": true,
+    "floorNumber": 3,
+    "clientId": "-LZe75o2NA9WYjWGCbjH"
+  },
+  "-LZe7JQu3ylyxtYgo7A6": {
+    "name": "Lorem ipsum lorem ipsum lorem ipsum",
+    "furnitures": [
+      {
+        "name": "Sofa",
+        "width": 180,
+        "height": 60,
+        "deepness": 120
+      },
+      {
+        "name": "Szafa",
+        "width": 120,
+        "height": 160,
+        "deepness": 220
+      }
+    ],
+    "date": "12-03-2019",
+    "hour": "12:00",
+    "isElevator": true,
+    "bringFurnitures": false,
+    "floorNumber": 3,
+    "clientId": "-LZe75o5o-38vJZJkd-9"
+  }
+}

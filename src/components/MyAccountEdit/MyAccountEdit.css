@@ -1,0 +1,35 @@
+.MyAccountEdit_title {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.MyAccountEdit_input{
+    width: 70%;
+    line-height: 15px;
+    border: none;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.MyAccount_add-button
+{border-radius: 20px;
+    border: none;
+    background-color: #323232;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    width: 100px;
+    text-transform: uppercase;
+    height: 25px;
+    margin-left: 200px;}
+
+    .MyAccount_information-email{
+    color: black;
+    text-transform: uppercase;
+    }

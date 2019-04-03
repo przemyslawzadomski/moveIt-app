@@ -1,0 +1,136 @@
+{
+  "-LZe7JQmzHNxL9MHwjd1" : {
+    "bringFurnitures" : false,
+    "clientId" : "1rqTsCsFAZUF2o0elAwjFrIScZ12",
+    "comment" : "Lorem ipsum.",
+    "dateOfRemoval" : "03/01/2019",
+    "deliveryAddress" : {
+      "address" : "75604 Kedzie Road",
+      "city" : "Mizunami",
+      "floor" : 5,
+      "isElevator" : false,
+      "postalCode" : "957-0048"
+    },
+    "furnitures" : [ {
+      "depth" : 95,
+      "height" : 147,
+      "name" : "vestibulum",
+      "width" : 130
+    } ],
+    "hourOfRemoval" : "4:31",
+    "name" : "Curabitur at ipsum ac tellus semper interdum.",
+    "pickupAddress" : {
+      "address" : "72639 Portage Avenue",
+      "city" : "Benchu",
+      "floor" : 9,
+      "isElevator" : true
+    }
+  },
+  "-L_XWPT1NKt5abiV3zP4" : {
+    "bringFurnitures" : false,
+    "clientId" : "1KFXQQ4oCwSJHM7kv91aWnvkUks1",
+    "comment" : "Lorem ipsum.",
+    "dateOfRemoval" : "11/01/2019",
+    "deliveryAddress" : {
+      "address" : "23523 Thierer Circle",
+      "city" : "Urung",
+      "floor" : 7,
+      "isElevator" : true
+    },
+    "furnitures" : [ {
+      "depth" : 53,
+      "height" : 113,
+      "name" : "quisque",
+      "width" : 89
+    } ],
+    "hourOfRemoval" : "3:06",
+    "name" : "Duis bibendum.",
+    "pickupAddress" : {
+      "address" : "7 Quincy Pass",
+      "city" : "Tanlad",
+      "floor" : 4,
+      "isElevator" : true,
+      "postalCode" : "8010"
+    }
+  },
+  "-L_XWPT64bqyo2uP4eGa" : {
+    "bringFurnitures" : false,
+    "clientId" : "59MNbVIyROgzFmTYBMG9axmmzOq2",
+    "comment" : "Lorem ipsum.",
+    "dateOfRemoval" : "04/01/2019",
+    "deliveryAddress" : {
+      "address" : "0 Drewry Lane",
+      "city" : "Zhuxi",
+      "floor" : 4,
+      "isElevator" : true
+    },
+    "furnitures" : [ {
+      "depth" : 46,
+      "height" : 58,
+      "name" : "elit",
+      "width" : 144
+    } ],
+    "hourOfRemoval" : "3:44",
+    "name" : "Quisque id justo sit amet sapien dignissim vestibulum.",
+    "pickupAddress" : {
+      "address" : "964 Vidon Terrace",
+      "city" : "Dhuusamarreeb",
+      "floor" : 10,
+      "isElevator" : true
+    }
+  },
+  "-L_XWPTBJWuXgTrhVkW6" : {
+    "bringFurnitures" : true,
+    "clientId" : "6jog9xdBPsfNPY8F4W765kfY7cQ2",
+    "comment" : "Lorem ipsum.",
+    "dateOfRemoval" : "19/01/2019",
+    "deliveryAddress" : {
+      "address" : "07 Manitowish Pass",
+      "city" : "Xibu",
+      "floor" : 7,
+      "isElevator" : false
+    },
+    "furnitures" : [ {
+      "depth" : 25,
+      "height" : 146,
+      "name" : "curae",
+      "width" : 78
+    } ],
+    "hourOfRemoval" : "6:56",
+    "name" : "Phasellus id sapien in sapien iaculis congue.",
+    "pickupAddress" : {
+      "address" : "4928 Clove Alley",
+      "city" : "Jevíčko",
+      "floor" : 6,
+      "isElevator" : false,
+      "postalCode" : "569 43"
+    }
+  },
+  "-L_XWPTGCGrFPJPfyLan" : {
+    "bringFurnitures" : false,
+    "clientId" : "EyeNzoNjNEUNEShSYgYDAKoUtMe2",
+    "comment" : "Lorem ipsum.",
+    "dateOfRemoval" : "18/01/2019",
+    "deliveryAddress" : {
+      "address" : "62 Southridge Terrace",
+      "city" : "Baoquan",
+      "floor" : 8,
+      "isElevator" : true
+    },
+    "furnitures" : [ {
+      "depth" : 60,
+      "height" : 111,
+      "name" : "vestibulum",
+      "width" : 72
+    } ],
+    "hourOfRemoval" : "11:30",
+    "name" : "Etiam pretium iaculis justo.",
+    "pickupAddress" : {
+      "address" : "6 Toban Alley",
+      "city" : "Bourg-en-Bresse",
+      "floor" : 6,
+      "isElevator" : true,
+      "postalCode" : "01009 CEDEX"
+    }
+  }
+}

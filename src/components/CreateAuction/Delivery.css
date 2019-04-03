@@ -1,0 +1,30 @@
+.Delivery_progress_bar{
+    padding-left: 20px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+.Delivery_progress-bar ul {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Delivery_progress-bar ul li {
+    width: 50px;
+    height: 50px;
+    padding: 17px 20px;
+    margin: 17px 15px;
+    background-color: grey;
+    border-radius: 50%
+}
+
+.Delivery_progress-bar ul li:first-child{
+    background-color: #f8c512;
+}
+.Delivery_progress-bar ul li:nth-child(2){
+    background-color: #f8c512;
+}
+.Delivery_progress-bar ul li:nth-child(3){
+    background-color: #f8c512;
+}

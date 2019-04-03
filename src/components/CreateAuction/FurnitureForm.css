@@ -1,0 +1,90 @@
+.FurnitureForm_button{
+    background-color: rgb(59, 57, 57);
+    border-radius: 15px;
+    border-style: none;
+    padding: 9px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top:15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+}
+
+.FurnitureForm_title{
+font-weight: bold;
+text-transform: uppercase;
+font-size: 18px;
+text-align: center;
+padding-top: 22px;
+padding-bottom: 22px;
+
+}
+
+.FurnitureForm_information{
+    padding-left: 20px;
+    text-transform: uppercase;
+    background-color: #f8c512;
+    background-image: url("./background.png");
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.FurnitureForm_information-details{
+    padding-bottom: 3px;
+    padding-top: 10px;
+
+}
+
+.FurnitureForm_input1{
+    width: 35%;
+    line-height: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 140px;  
+}
+
+.FurnitureForm_input2{
+    width: 35%;
+    line-height: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 102px;  
+}
+
+.FurnitureForm_input3{
+    width: 35%;
+    line-height: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 105px;  
+}
+
+.FurnitureForm_input4{
+    width: 35%;
+    line-height: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 100px;  
+}
+
+.FurnitureForm_input5{
+    width: 35%;
+    line-height: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 142px;  
+}

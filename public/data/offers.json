@@ -1,0 +1,42 @@
+{
+  "offer1": {
+    "auctionId": "-L_XWPSxPANtw86wTziK",
+    "clientId": "1rqTsCsFAZUF2o0elAwjFrIScZ12",
+    "carrierId": "38650cd3-924e-4bdd-96eb-fa88292facf1",
+    "price": 255,
+    "date": "09/02/2019",
+    "chosen": true
+  },
+  "offer2": {
+    "auctionId": "-L_XWPT1NKt5abiV3zP4",
+    "clientId": "31zkG9FRZJWlRX9oLARkx1Y2GnZ2",
+    "carrierId": "156d0f08-9516-4bff-b603-be4167cb810a",
+    "price": 1247,
+    "date": "19/02/2019",
+    "chosen": true
+  },
+  "offer3": {
+    "auctionId": "-L_XWPT64bqyo2uP4eGa",
+    "clientId": "59MNbVIyROgzFmTYBMG9axmmzOq2",
+    "carrierId": "a25a10e9-1f0a-4939-9fe8-3e0e3d2e9445",
+    "price": 673,
+    "date": "15/02/2019",
+    "chosen": true
+  },
+  "offer4": {
+    "auctionId": "-L_XWPTBJWuXgTrhVkW6",
+    "clientId": "6jog9xdBPsfNPY8F4W765kfY7cQ2",
+    "carrierId": "32ee078b-4710-426b-a312-3302e862061b",
+    "price": 1013,
+    "date": "12/02/2019",
+    "chosen": true
+  },
+  "offer5": {
+    "auctionId": "-L_XWPTGCGrFPJPfyLan",
+    "clientId": "9sCe7BmKRgV9qBJr2anPnLchajh1",
+    "carrierId": "ee88691f-02dd-47ee-ace9-f48c7723f04e",
+    "price": 430,
+    "date": "04/02/2019",
+    "chosen": true
+  }
+}

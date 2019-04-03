@@ -1,0 +1,99 @@
+.Furnitures_All {
+    font-family: 'Catamaran', sans-serif;
+    scroll-behavior: smooth;
+    width: 100%;
+  }
+
+  .Furnitures_next-button{
+    background-color: rgb(59, 57, 57);
+    border-radius: 15px;
+    border-style: none;
+    padding: 9px;
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top:5px;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-left: 20px;
+   
+}
+
+.Furnitures_header {
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: #f8c512;
+    padding: 110px 30px 30px 30px;
+    font-weight: bold;
+    box-shadow: 0px 1px 5px rgb(105, 105, 105);
+}
+
+
+.Furnitures_list-title{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: #ededed;
+}
+
+.Furnitures_progress-bar{
+    padding-left: 20px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+.Furnitures_progress-bar ul {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Furnitures_progress-bar ul li {
+    width: 50px;
+    height: 50px;
+    padding: 17px 20px;
+    margin: 0 15px;
+    background-color: grey;
+    border-radius: 50%
+}
+
+.Furnitures_progress-bar ul li:first-child{
+    background-color: #f8c512;
+}
+
+.Furnitures_information{
+    font-weight: bold;
+}
+
+.Furnitures_list{
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.Furnitures_list li{
+   
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.Furnitures_list:nth-child(odd){
+    background-color:#f8c512;
+    background-image: url("./iconmonstr-chart-22-240\ \(1\).png");
+    background-position: 85% 60%;
+    background-repeat: no-repeat;
+    background-size: 33%;
+   
+  }
+
+  .Furnitures_list:nth-child(even){
+    background-image: url("./iconmonstr-delivery-1-240.png");
+    background-position: 85% 60%;
+    background-repeat: no-repeat;
+    background-size: 33%;
+  }
